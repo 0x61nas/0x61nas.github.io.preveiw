@@ -1,0 +1,4 @@
+Sitemap: https://0x61nas.github.io/sitemap.xml
+User-Agent: *
+Allow: /
+Host: https://0x61nas.github.io
