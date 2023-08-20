@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Anas - Media</title>
+    <subtitle>Random stuff</subtitle>
+    <link href="https://0x61nas.github.io/categories/media/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://0x61nas.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-08-17T00:00:00+00:00</updated>
+    <id>https://0x61nas.github.io/categories/media/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Media</title>
+        <published>2023-08-17T00:00:00+00:00</published>
+        <updated>2023-08-17T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://0x61nas.github.io/media/" type="text/html"/>
+        <id>https://0x61nas.github.io/media/</id>
+        
+        <content type="html">&lt;h3 id=&quot;cv-resume&quot;&gt;CV&#x2F;Resume&lt;&#x2F;h3&gt;
+&lt;p&gt;All the CVs&#x2F;Resumes files are tracked with &lt;code&gt;git&lt;&#x2F;code&gt; in &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;0x61nas&#x2F;cv&quot;&gt;0x61nas&#x2F;cv&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;ast-compatible&quot;&gt;AST compatible&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Nothing here yet&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;rxresume&quot;&gt;RxResume&lt;&#x2F;h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The resumes that I build with the &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;&#x2F;rxresu.me&quot;&gt;Reactive Resume Builder&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;The full detailed(for now) resume &lt;a href=&quot;&#x2F;cv&#x2F;rxresume&#x2F;anas-elgarhy-resume_2023-07-12.pdf&quot;&gt;anas-elgarhy-resume_2023-07-12.pdf&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I try to keep the pdf updated as much as I can. but sometimes things that aren&#x27;t in our plans happen :\, so you can see the &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;rxresu.me&#x2F;r&#x2F;ffes5mXD&quot;&gt;live version&lt;&#x2F;a&gt; as long as the &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;rxresu.me&quot;&gt;rxresu.me&lt;&#x2F;a&gt; website is UP. &lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h3 id=&quot;music&quot;&gt;Music&lt;&#x2F;h3&gt;
+&lt;p&gt;I don&#x27;t make music(yet). but I have a bit strange, open-mind, closed-mind, raucous, quiet musical sense(all at the same time)&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;random &lt;a href=&quot;https:&#x2F;&#x2F;0x61nas.github.io&#x2F;media&#x2F;music&#x2F;tracks-i-love&quot;&gt;tracks that I just love&lt;&#x2F;a&gt; and want to share it with someone.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;0x61nas.github.io&#x2F;media&#x2F;music&#x2F;music-playlists&quot;&gt;My playlists&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;ftp.openbsd.org&#x2F;pub&#x2F;OpenBSD&#x2F;songs&quot;&gt;OpenBSD songs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;open.spotify.com&#x2F;user&#x2F;rdi4jef2agjun6i9uie7nnu34&quot;&gt;My Spotify account&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;memes&quot;&gt;Memes&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Memes&lt;&#x2F;li&gt;
+&lt;li&gt;Memes templates&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;anime&quot;&gt;Anime&lt;&#x2F;h3&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>My music playlists</title>
+        <published>2023-08-17T00:00:00+00:00</published>
+        <updated>2023-08-17T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://0x61nas.github.io/media/music/music-playlists/" type="text/html"/>
+        <id>https://0x61nas.github.io/media/music/music-playlists/</id>
+        
+        <content type="html">&lt;p&gt;test&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Music tracks that I love</title>
+        <published>2023-08-17T00:00:00+00:00</published>
+        <updated>2023-08-17T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://0x61nas.github.io/media/music/tracks-i-love/" type="text/html"/>
+        <id>https://0x61nas.github.io/media/music/tracks-i-love/</id>
+        
+        <content type="html">&lt;p&gt;test&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
